@@ -568,7 +568,7 @@ body {
 
 /* Style the list items */
 #checklist ul li {
-    cursor: pointer;
+    /* cursor: pointer; */
     position: relative;
     padding: 12px 8px 12px 40px;
     background: #eee;
