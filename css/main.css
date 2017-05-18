@@ -138,18 +138,23 @@ hr.small {
   }
 }
 .intro-header {
+  margin-bottom: 50px;
+}
+.home-bg {
+  background: #808080 url('../img/home-bg.jpg') no-repeat center center;
   background-attachment: scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-bottom: 50px;
-}
-.home-bg {
-  background: #808080 url('../img/home-bg.jpg') no-repeat center center;
 }
 .seattle-bg {
   background: #808080 url('../img/seattle-bg.jpg') no-repeat center center;
+  background-attachment: scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
 }
 .intro-header .site-heading,
 .intro-header .post-heading,
