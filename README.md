@@ -6,5 +6,4 @@
 
 ## Copyright and License
 
-Copyright 2016 Ming Zhang
-Template code released by Summit Media Strategies, LLC under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-clean-blog/blob/gh-pages/LICENSE) license.
+Copyright 2018 Ming Zhang
