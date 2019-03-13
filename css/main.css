@@ -6,6 +6,7 @@ h1, a {
   font-family: 'Montserrat', 'Arial', serif;
   font-weight: 300;
   color: #111111;
+  transition: all .15s ease-in-out;
 }
 a:hover {
   color: #808080;
@@ -40,7 +41,7 @@ div.contact-container a {
 }
 
 /* 404 Take Me Home Button */
-.button {
+#btn-404 {
   color: #e0e0e0;
   background-color: #6c757d;
   border: none;
@@ -54,10 +55,9 @@ div.contact-container a {
   vertical-align: middle;
   user-select: none;
   text-decoration: none;
-  transition: all .15s ease-in-out;
 }
 
-.button:hover {
+#btn-404:hover {
   color: #e0e0e0;
   background-color: #5a6268;
   border-color: #545b62;
