@@ -38,3 +38,27 @@ div.contact-container a {
   font-size: 30px;
   margin: 0 10px;
 }
+
+/* 404 Take Me Home Button */
+.button {
+  color: #e0e0e0;
+  background-color: #6c757d;
+  border: none;
+  border-radius: .3rem;
+  margin: 32px;
+  padding: 15px 32px;
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  user-select: none;
+  text-decoration: none;
+  transition: all .15s ease-in-out;
+}
+
+.button:hover {
+  color: #e0e0e0;
+  background-color: #5a6268;
+  border-color: #545b62;
+}
