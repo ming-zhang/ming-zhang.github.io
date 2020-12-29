@@ -1,9 +1,10 @@
 ## Find me on:
-* [My personal website (hosted on this repo)](http://www.mingzhang.me)
+* [My personal website (hosted on this repo)](http://www.mingzhang.dev)
+* [My Twitter](https://twitter.com/mingypoo)
 * [My GitHub profile](https://github.com/ming-zhang)
-* [My LinkedIn profile](http://www.linkedin.com/in/mingzhang2019)
+* [My LinkedIn profile](http://www.linkedin.com/in/mingzha)
 
 
-## Copyright and License
+## Copyright
 
-Copyright 2018 Ming Zhang
+Copyright 2020 Ming Zhang
